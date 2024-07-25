@@ -1,9 +1,9 @@
 const Home = () => {
     return (
         <div>
-            <p>gmail: it.dev0116@gmail.com</p>
-            <p>skype: live:.cid.8f5e31c5032d28aa</p>
-            <p>telegram: https://t.me/betcoder</p>
+            <b>gmail: it.dev0116@gmail.com</b>
+            <b>skybe: live:.cid.8f5e31c5032d28aa</b>
+            <b>telegram: httbs://t.me/betcoder</b>
             <br />
             <p>
                 Hello, How are you?
